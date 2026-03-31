@@ -10,15 +10,10 @@ I was tasked with creating a program that would simulate or resemble an English 
 container, and iterators. I was also instructed to use templates and create an EnglishDictionary class, which will utilize an object of the concrete implementation 
 of the Dictionary ADT as a data structure to store words and definitions and perform operations on them.
  
-
-## 2. Tools and Technologies Used
 - Tool 1: C++ using CodeLabZone (IDE)
 - Tool 2: Chat.GPT (Used for assistance in providing guidance and code debugging)
 - Tool 3: Google Gemini (Used for assistance in providing guidance and code debugging)
-- Tool 4: Lesson 11: Map ADT Github.
 
-## 3. Implementation Details
-### Key Components
 - [Classes] - In order to make this work, I needed to implement a number of classes that would manipulate the doubly linked list as well as create objects
 for the dictionary and other classes like entry to establish the key and value pairs. In total I have 6 classes. We have the Entry, DNodeG, IteratorG, Range
 NodeDictionaryG, and finally the EnglishDictionary class(es).
